@@ -70,6 +70,13 @@ export class NursingApp extends Component{
             <div>
                 <Header/>
                 <div className="container">
+                    <div className="row" style={{marginTop: '10px'}}>
+                        <ButtonsPanel
+                            onNursingSidePress = {(side) => this.onNursingSidePress(side)}
+                            resetAll = {() => this.resetAll()}
+                        />
+                    </div>
+
                     <div className="row">
                         <RecordTable
                             titles = {titles}
@@ -77,12 +84,6 @@ export class NursingApp extends Component{
                             onNursingRecordDurationChange = {this.onNursingRecordDurationChange.bind(this)}
                             removeByIndex = {(index) => this.removeByIndex(index)}
 
-                        />
-                    </div>
-                    <div className="row">
-                        <ButtonsPanel
-                            onNursingSidePress = {(side) => this.onNursingSidePress(side)}
-                            resetAll = {() => this.resetAll()}
                         />
                     </div>
                 </div>

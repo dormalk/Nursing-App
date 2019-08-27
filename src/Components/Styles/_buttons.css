@@ -1,0 +1,7 @@
+#buttonsPanel{
+    margin: auto;
+}
+
+#buttonsPanel .btn{
+    margin-left: 5px;
+}

@@ -1,0 +1,15 @@
+#header{
+    background-color: lightcoral;
+    color: rgb(255,255,245);
+}
+
+h3{
+    padding: 20px 30px ;
+    font-weight: bolder;
+}
+
+@media (max-width: 480px){
+    h3{ 
+        margin: auto;
+    }    
+}

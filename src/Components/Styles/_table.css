@@ -1,0 +1,17 @@
+.recordTable{
+    margin-top: 20px;
+}
+
+th,td{
+    text-align: right;
+}
+
+@media (max-width: 480px){
+    .row{
+        margin: 0px;
+    }
+
+    input{
+        padding: 4px;
+    }
+}

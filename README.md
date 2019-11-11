@@ -41,12 +41,12 @@
   <h3 align="center">Nursing App</h3>
 
   <p align="center">
-    Fanny way to keep your contact
+    Breastfeeding tracking 
     <br />
     <a href="https://github.com/dormalk/Nursing-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://dormalk.github.io/Nursing-App/" target="_blank">Open Nursing App</a>
+    <a href="https://young-fjord-54178.herokuapp.com/" target="_blank">Open Nursing App</a>
     ·
     <a href="https://github.com/dormalk/Nursing-App/issues">Report Bug</a>
     ·
@@ -80,12 +80,13 @@
 ![product-screenshot][product-screenshot2]
 
 
-Funny way to keep your contact - for every contact there is a uniq robot avater.
+Are u breastfeeding your child? this app is for you!
+Tracking after the times and the final feeded breasts to make feeding effective!
 
 ### Built With
 
   * [React](https://reactjs.org/)
-  * [tachyons](https://tachyons.io/)
+  * [Bootstrap](https://getbootstrap.com/)
 
 
 
@@ -123,7 +124,7 @@ http://localhost:3000
 ## Usage
   - View contacts linked to REST
   - Search for your contact 
-  - <a href="https://dormalk.github.io/Robofriend-App/" target="_blank">Link to Nursing App</a>
+  - <a href="https://young-fjord-54178.herokuapp.com/" target="_blank">Link to Nursing App</a>
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
@@ -168,10 +169,7 @@ Project Link: [https://github.com/dormalk/Nursing-App](https://github.com/dormal
 ## Acknowledgements
 
   * [React](https://reactjs.org/)
-  * [tachyons](https://tachyons.io/)
-  * [JSONplaceholder](https://jsonplaceholder.typicode.com/)
-  * [RoboHASH](https://robohash.org/)
-  * [Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+  * [Bootstrap](https://getbootstrap.com/)
 
 
 

@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dormalk/Nursing-App">
-    <img src="https://robohash.org/2" alt="logo" width="150" height="150"/>
+    <img src="https://i.imgur.com/nPyBg1T.png" alt="logo" width="150" height="150"/>
   </a>
 
   <h3 align="center">Nursing App</h3>

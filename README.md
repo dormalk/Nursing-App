@@ -77,7 +77,6 @@
 ## About The Project
 
 ![product-screenshot][product-screenshot1]
-![product-screenshot][product-screenshot2]
 
 
 Are u breastfeeding your child? this app is for you!
@@ -189,7 +188,5 @@ Project Link: [https://github.com/dormalk/Nursing-App](https://github.com/dormal
 [license-url]: https://github.com/dormalk/Nursing-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dor-malka-444b94116/
-[product-screenshot1]: https://i.imgur.com/uhtqblj.png
-[product-screenshot2]: https://i.imgur.com/wqZd31m.png
-
+[product-screenshot1]: https://i.imgur.com/gIoceuD.png
 
